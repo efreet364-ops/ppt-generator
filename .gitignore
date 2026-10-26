@@ -119,5 +119,6 @@ backend/fonts/*
 
 # 其他
 java_backend/
+README.md
 *.local
 .history/
