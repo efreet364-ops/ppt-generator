@@ -1,5 +1,8 @@
 # 项目文档
 docs/
+!docs/
+docs/*
+!docs/*.md
 
 # 操作系统
 .DS_Store
@@ -115,5 +118,6 @@ backend/fonts/*
 
 
 # 其他
+java_backend/
 *.local
 .history/
